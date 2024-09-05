@@ -22,6 +22,37 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "University of South Florida",
+      "location": "Tampa, Florida",
+      "url": "https://www.usf.edu/arts-sciences/departments/physics/graduate/index.aspx",
+      "area": "Applied Physics: Computational Biophysics and Neurobiology",
+      "studyType": "Doctor of Philosophy (PhD)",
+      "startDate": "2019-08",
+      "endDate": "pres",
+      "courses": ["Biophysics", "Applied Bioinformatics", "Theoretical Physics"]
+    },    
+    {
+      "institution": "University of South Florida",
+      "location": "Tampa, Florida",
+      "url": "https://www.usf.edu/arts-sciences/departments/physics/graduate/index.aspx",
+      "area": "Applied Physics: Computational Biophysics and Neurobiology",
+      "studyType": "Master of Science (MSc)",
+      "startDate": "2019-08",
+      "endDate": "2023-12",
+      "courses": ["Biophysics", "Applied Bioinformatics", "Theoretical Physics"]
+    },   
+    {
+      "institution": "University of Lagos",
+      "location": "Lagos, Nigeria",
+      "area": "Applied Physics: Electronics",
+      "studyType": "Bachelor of Science (BSc)",
+      "startDate": "2012-09",
+      "endDate": "2017-01",
+      "courses": ["Theoretical Physics"]
+    } 
+  ],
   "work": [
     {
       "name": "Computational Biophysics Group, University of South Florida",
