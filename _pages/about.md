@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.png
+  image: tope_prof_pic.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>tadeoye{at}usf{dot}{edu}</p>
