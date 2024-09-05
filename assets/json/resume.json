@@ -20,7 +20,6 @@
       }
     ]
   },
-  
   "education": [
     {
       "institution": "University of South Florida",
@@ -52,7 +51,6 @@
       "courses": ["Theoretical Physics"]
     }    
   ],
-  
   "work": [
     {
       "name": "Computational Biophysics Group, University of South Florida",
@@ -148,30 +146,30 @@
       "summary": "We perform in-silico experiments of intracellular Ca2+ signaling and exocytosis in a detailed biophysical model of hippocampal synapses to investigate the effect of aberrant Ca2+ signaling on neurotransmitter release in Familial ALzheimer's Disease."
     },
   ],
-  "software skills": [
+  "skills": [
     {
-      "category": "Programming/Scripting Languages", 
-      "skills": ["Python", "R", "Bash", "MATLAB", "SQL", "FORTRAN"]
+      "name": "Programming/Scripting Languages", 
+      "keywords": ["Python", "R", "Bash", "MATLAB", "SQL", "FORTRAN"]
     },
     {
-      "category": "Machine Learning Frameworks", 
-      "skills": ["Keras", "scikit-learn", "TensorFlow", "scipy", "PyTorch", "statsmodels"]
+      "name": "Machine Learning Frameworks", 
+      "keywords": ["Keras", "scikit-learn", "TensorFlow", "scipy", "PyTorch", "statsmodels"]
     },
     {
-      "category": "Parallel Computing", [
-      "skills": "CUDA", "mpi4py"]
+      "name": "Parallel Computing", [
+      "keywords": "CUDA", "mpi4py"]
     },
     {
-      "category": "High Performance Computing",
+      "name": "High Performance Computing",
       "skills": ["Amazon Sagemaker", "Terra Community Workbench"]
     },
     {
-      "category": "Code Development",
-      "skills": ["Git", "Github", "Visual Studio", "Docker", "Anaconda"]
+      "name": "Code Development",
+      "keywords": ["Git", "Github", "Visual Studio", "Docker", "Anaconda"]
     },
     {
-      "ctageory": "Research-relevant Open-source Libraries",
-      "skills": ["scanpy", "squidpy", "scvi-tools", "hdWGCNA", "GSVA", "SCENIC+", "ArchR", "Single-cell (RNA, ATAC, & spatial) -omics libraries", "Biopython"]
-    },
+      "name": "Research-relevant Open-source Libraries",
+      "keywords": ["scanpy", "squidpy", "scvi-tools", "hdWGCNA", "GSVA", "SCENIC+", "ArchR", "Single-cell (RNA, ATAC, & spatial) -omics libraries", "Biopython"]
+    }
   ]
 }
