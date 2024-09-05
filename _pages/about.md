@@ -26,6 +26,6 @@ I currenlty lead projects across genomics and biophysics, where I specifically a
 
 I recently interned on the Computational Biology team at [Cajal Neuroscience](https://www.cajalneuro.com/), where I developed Machine Learning pipelines for single-cell multi-omics data analysis to help guide the interpretation of experiments on in-house disease models for target prioritization in in-vivo/vitro screening platforms.
 
-As a scientist, I'm broadly interested in allm aspects of computational biology for complex brain diseases and aging, machine learning applications in single-cell biology and drug discovery, and development of bioinformatics methods and pipelines. 
+As a scientist, I'm broadly interested in all aspects of computational biology for complex brain diseases and aging, machine learning applications in single-cell biology and drug discovery, and development of bioinformatics methods and pipelines. 
 
 Want to dive deeper? Check out my previous works [here](https://scholar.google.com/citations?user=CkMw3EkAAAAJ&hl=en).
