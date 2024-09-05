@@ -5,8 +5,8 @@
     "image": "",
     "email": "tadeoye@usf.edu",
     "phone": "",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "Applyinf systems biology methods in biophysics and genomics to better understand dysfunction in neurological disorders",
+    "url": "",
+    "summary": "Applying systems biology methods in biophysics and genomics to better understand dysfunction in neurological disorders",
     "location": {
       "city": "Tampa",
       "countryCode": "US",
@@ -20,179 +20,158 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of South Florida",
+      "location": "Tampa, Florida",
+      "url": "https://www.usf.edu/arts-sciences/departments/physics/graduate/index.aspx",
+      "area": "Applied Physics: Computational Biophysics and Neurobiology",
+      "studyType": "Doctor of Philosophy (PhD)",
+      "startDate": "2019-08",
+      "endDate": "pres",
+      "courses": ["Biophysics", "Applied Bioinformatics", "Theoretical Physics"]
+    },    
+    {
+      "institution": "University of South Florida",
+      "location": "Tampa, Florida",
+      "url": "https://www.usf.edu/arts-sciences/departments/physics/graduate/index.aspx",
+      "area": "Applied Physics: Computational Biophysics and Neurobiology",
+      "studyType": "Master of Science (MSc)",
+      "startDate": "2019-08",
+      "endDate": "2023-12",
+      "courses": ["Biophysics", "Applied Bioinformatics", "Theoretical Physics"]
+    },   
+    {
+      "institution": "University of Lagos",
+      "location": "Lagos, Nigeria",
+      "area": "Applied Physics: Electronics",
+      "studyType": "Bachelor of Science (BSc)",
+      "startDate": "2012-09",
+      "endDate": "2017-01",
+      "courses": ["Theoretical Physics"]
+    }    
+  ],
+  
+  "work": [
+    {
+      "name": "Computational Biophysics Group, University of South Florida",
+      "position": "Graduate Research Asssistant",
+      "url": "http://faculty.cas.usf.edu/gullah/",
+      "startDate": "2019-09",
+      "endDate": "PRES",
+      "summary": "Primary research has focused on applying theoretical and computational techniques as well as single-cell multi-omics to understand the molecular and cellular mechanisms of synaptic dysfunction in Alzheimer’s disease (AD). This has involved investigating neuronal signaling pathways and gene programs affected in AD and their impact on synaptic plasticity. These research experiences have resulted in two publications and multiple collaborations.",
+      "highlights": ["Single-cell multi-omics", "Biophysics", "Bioinformatics", "Systems Biology", "Statistics", "Machine Learning"]
+    },
+    {
+      "name": "Cajal Neuroscience",
+      "position": "Research Intern, Human Multi-omics",
+      "url": "https://www.cajalneuro.com/",
+      "startDate": "2022-05",
+      "endDate": "2022-08",
+      "summary": "This internship focused on developing a deep learning pipeline for mapping and contextualizing single-cell sequencing data to enable rapid integration of new datasets into reference atlases. The project involved implementing an interpretable deep learning approach with explainable embeddings to create biologically informed latent representations, and deploying standardized bioinformatic workflows to identify cell states, differential expression patterns, and trajectories in Alzheimer's and Parkinson's disease (PD) models.",
+      "highlights": ["Single-cell multi-omics", "Bioinformatics", "Machine Learning"]
+    },
+    {
+      "name": "University of South Florida",
+      "position": "Bioinformatics Research Student",
+      "url": "",
+      "startDate": "2021-08",
+      "endDate": "2022-05",
+      "summary": "Investigated the role of intrinsic disorder in Ebola and Marburg virus proteins and its potential implications for virulence. This research experience strengthened my skills in bioinformatics, data analysis, and understanding the molecular basis of disease pathogenesis.",
+      "highlights": ["Intrinsically Disordered Proteins"]
+    }
+  ],
+  "training": [
+    {
+      "organization": "Neuromatch Academy",
+      "location": "",
+      "position": "Deep Learning for Neuroscience Summer School",
+      "url": "",
+      "startDate": "2021-08",
+      "endDate": "2021-08",
+      "summary": "As part of a multidisciplinary research team, I contributed to the development of a deep-image reconstruction model that utilizes recorded neural activity from the visual cortex. Our findings established that the primary visual cortex encodes the majority of the information required for image reconstruction and can be independently employed for this purpose. This research experience has honed my skills in machine learning, neural data analysis, and understanding the neural basis of visual perception",
+      "highlights": ["Deep Image Reconstruction Modelling", "Neural Activity", "Machine Learning"]
+    },
+    {
+      "organization": "Neuromatch Academy",
+      "location": "",
+      "position": "Computational Neuroscience Summer School",
+      "url": "",
+      "startDate": "2020-07",
+      "endDate": "2020-07",
+      "summary": "This work involved developing a prediction model to investigate the effects of trial history on the trial-to-trial variability of neural and behavioral data. Our findings revealed the significant role of trial history in explaining the trial-to-trial variability of behavioral and neural responses at stimulus onset. These findings challenged the common notion that variability in neural and behavioral data is often regarded as noise. This research experience further strengthened my skills in machine learning and understanding the complex dynamics of neural and behavioral responses.",
+      "highlights": ["Prediction Modelling", "Neural Activity", "Trial-to-trial Variability", "Behavioral Data"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Trainee Professional Development Award",
+      "date": "2024-08",
+      "awarder": "Soceity for Neuroscience",
+      "url": "https://www.sfn.org/meetings/meeting-awards/trainee-professional-development-award",
+      "summary": "This award is given to graduate students who demonstrate scientific merit and excellence in research."
     },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
+    { 
+      "title": "Tharp and Duckwall Summer Research Fellowship",
+      "date": "2024-05",
+      "awarder": "College of Arts and Sciences, University of South Florida",
+      "url": "https://www.usf.edu/arts-sciences/departments/geosciences/graduate/funding/fellowships.aspx",
+      "summary": "This is awarded in recognition of accomplishments as a graduate student and in support of continuing research and scholarship activities."
+    },  
+    { 
+      "title": "University of Lagos Endowment Prize",
+      "date": "2012-2017",
+      "awarder": "University of Lagos",
+      "summary": "This award is given to students who maintain a GPA of 4.5 and above (3.6 on a 4.0 scale) in each semester."
+    }, 
+    { 
+      "title": "Dean's Award",
+      "date": "2012-2017",
+      "awarder": "University of Lagos",
+      "summary": "Honors recognizing the best graduating student from the program, the Department of Physics"
+    }, 
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Systematic Analysis of Biological Processes Reveals Gene Co-expression Modules Driving Pathway Dysregulation in Alzheimer’s Disease.",
+      "publisher": "Aging and Disease",
+      "releaseDate": "2024-06-21",
+      "url": "https://www.aginganddisease.org/EN/10.14336/AD.2024.0429",
+      "summary": "We integrate pathway activity analysis with weighted gene co-expression patterns to provide insights into the functional coherence and interplay among genes involved in perturbed biological processes in AD."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Upregulated Ca2+ Release from the Endoplasmic Reticulum Leads to Impaired Presynaptic Function in Familial Alzheimer’s Disease. ",
+      "publisher": "MDPI",
+      "releaseDate": "2022-07-11",
+      "url": "https://www.mdpi.com/2073-4409/11/14/2167",
+      "summary": "We perform in-silico experiments of intracellular Ca2+ signaling and exocytosis in a detailed biophysical model of hippocampal synapses to investigate the effect of aberrant Ca2+ signaling on neurotransmitter release in Familial ALzheimer's Disease."
+    },
+  ],
+  "software skills": [
+    {
+      "category": "Programming/Scripting Languages", 
+      "skills": ["Python", "R", "Bash", "MATLAB", "SQL", "FORTRAN"]
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "category": "Machine Learning Frameworks", 
+      "skills": ["Keras", "scikit-learn", "TensorFlow", "scipy", "PyTorch", "statsmodels"]
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "category": "Parallel Computing", [
+      "skills": "CUDA", "mpi4py"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "category": "High Performance Computing",
+      "skills": ["Amazon Sagemaker", "Terra Community Workbench"]
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
+      "category": "Code Development",
+      "skills": ["Git", "Github", "Visual Studio", "Docker", "Anaconda"]
+    },
+    {
+      "ctageory": "Research-relevant Open-source Libraries",
+      "skills": ["scanpy", "squidpy", "scvi-tools", "hdWGCNA", "GSVA", "SCENIC+", "ArchR", "Single-cell (RNA, ATAC, & spatial) -omics libraries", "Biopython"]
+    },
   ]
 }
