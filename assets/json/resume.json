@@ -80,28 +80,6 @@
       "highlights": ["Intrinsically Disordered Proteins"]
     }
   ],
-  "training": [
-    {
-      "organization": "Neuromatch Academy",
-      "location": "",
-      "position": "Deep Learning for Neuroscience Summer School",
-      "url": "",
-      "startDate": "2021-08",
-      "endDate": "2021-08",
-      "summary": "As part of a multidisciplinary research team, I contributed to the development of a deep-image reconstruction model that utilizes recorded neural activity from the visual cortex. Our findings established that the primary visual cortex encodes the majority of the information required for image reconstruction and can be independently employed for this purpose. This research experience has honed my skills in machine learning, neural data analysis, and understanding the neural basis of visual perception",
-      "highlights": ["Deep Image Reconstruction Modelling", "Neural Activity", "Machine Learning"]
-    },
-    {
-      "organization": "Neuromatch Academy",
-      "location": "",
-      "position": "Computational Neuroscience Summer School",
-      "url": "",
-      "startDate": "2020-07",
-      "endDate": "2020-07",
-      "summary": "This work involved developing a prediction model to investigate the effects of trial history on the trial-to-trial variability of neural and behavioral data. Our findings revealed the significant role of trial history in explaining the trial-to-trial variability of behavioral and neural responses at stimulus onset. These findings challenged the common notion that variability in neural and behavioral data is often regarded as noise. This research experience further strengthened my skills in machine learning and understanding the complex dynamics of neural and behavioral responses.",
-      "highlights": ["Prediction Modelling", "Neural Activity", "Trial-to-trial Variability", "Behavioral Data"]
-    }
-  ],
   "awards": [
     {
       "title": "Trainee Professional Development Award",
@@ -146,30 +124,24 @@
       "summary": "We perform in-silico experiments of intracellular Ca2+ signaling and exocytosis in a detailed biophysical model of hippocampal synapses to investigate the effect of aberrant Ca2+ signaling on neurotransmitter release in Familial ALzheimer's Disease."
     },
   ],
-  "skills": [
+  "certificates": [
     {
-      "name": "Programming/Scripting Languages", 
-      "keywords": ["Python", "R", "Bash", "MATLAB", "SQL", "FORTRAN"]
+      "name": "Deep Learning for Neuroscience",
+      "date": "2021-08",
+      "issuer": "Neuromatch Academy",
+      "url": "https://neuromatch.io/deep-learning-course/",
+      "icon": "fa-solid fa-envelope"
+      "summary": "As part of a multidisciplinary research team, I contributed to the development of a deep-image reconstruction model that utilizes recorded neural activity from the visual cortex. Our findings established that the primary visual cortex encodes the majority of the information required for image reconstruction and can be independently employed for this purpose. This research experience has honed my skills in machine learning, neural data analysis, and understanding the neural basis of visual perception",
+      "highlights": ["Deep Image Reconstruction Modelling", "Neural Activity", "Machine Learning"]
     },
     {
-      "name": "Machine Learning Frameworks", 
-      "keywords": ["Keras", "scikit-learn", "TensorFlow", "scipy", "PyTorch", "statsmodels"]
-    },
-    {
-      "name": "Parallel Computing", [
-      "keywords": "CUDA", "mpi4py"]
-    },
-    {
-      "name": "High Performance Computing",
-      "skills": ["Amazon Sagemaker", "Terra Community Workbench"]
-    },
-    {
-      "name": "Code Development",
-      "keywords": ["Git", "Github", "Visual Studio", "Docker", "Anaconda"]
-    },
-    {
-      "name": "Research-relevant Open-source Libraries",
-      "keywords": ["scanpy", "squidpy", "scvi-tools", "hdWGCNA", "GSVA", "SCENIC+", "ArchR", "Single-cell (RNA, ATAC, & spatial) -omics libraries", "Biopython"]
+      "name": "Computational Neuroscience",
+      "date": "2020-07",
+      "issuer": "Neuromatch Academy",
+      "url": "https://neuromatch.io/computational-neuroscience-course/",
+      "icon": "fa-solid fa-envelope"
+      "summary": "This work involved developing a prediction model to investigate the effects of trial history on the trial-to-trial variability of neural and behavioral data. Our findings revealed the significant role of trial history in explaining the trial-to-trial variability of behavioral and neural responses at stimulus onset. These findings challenged the common notion that variability in neural and behavioral data is often regarded as noise. This research experience further strengthened my skills in machine learning and understanding the complex dynamics of neural and behavioral responses.",
+      "highlights": ["Prediction Modelling", "Neural Activity", "Trial-to-trial Variability", "Behavioral Data"]
     }
   ]
 }
