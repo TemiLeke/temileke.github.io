@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 I'm a Physicist and PhD candidate in Computational Neurobiology at the University of South Florida, working in [Dr. Ghanim Ullah](http://faculty.cas.usf.edu/gullah/)'s lab. My research essentially revolves around looking at a bit of biology and seeing how it can be reduced to variables and equations. 
 
-I currenlty lead projects that span genomics and biophysics, where I specically apply systems biology strategies to unravel the cell-type-specific mechanisms of synaptic dysfunction in Alzheimer's disease and related dementias. My work primarily involves: 
+I currenlty lead projects that span genomics and biophysics, where I specifically apply systems biology strategies to uncover the cell-type-specific mechanisms of synaptic dysfunction in Alzheimer's disease and related dementias. My work primarily involves: 
   - applying theoretical and computational tools/methods for problems in whole cell biophysics and
   - bioinformatics, network biology, and statistical methods for problems in single-cell genomics (scRNA-seq), epigenomics (scATAC-seq), and spatial transcriptomics. 
 
