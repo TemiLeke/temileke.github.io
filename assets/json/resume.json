@@ -3,7 +3,7 @@
     "name": "Temitope",
     "label": "",
     "image": "",
-    "email": "tadeoye@usf.edy",
+    "email": "tadeoye@usf.edu",
     "phone": "",
     "url": "",
     "summary": "Applying systems biology methods in biophysics and genomics to better understand dysfunction in neurological disorders.",
@@ -24,38 +24,31 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Computational Biophysics Group, University of South Florida",
+      "position": "Graduate Research Asssistant",
+      "url": "http://faculty.cas.usf.edu/gullah/",
+      "startDate": "2019-09",
+      "endDate": "PRES",
+      "summary": "Primary research has focused on applying theoretical and computational techniques as well as single-cell multi-omics to understand the molecular and cellular mechanisms of synaptic dysfunction in Alzheimer’s disease (AD). This has involved investigating neuronal signaling pathways and gene programs affected in AD and their impact on synaptic plasticity. These research experiences have resulted in two publications and multiple collaborations.",
+      "highlights": ["Single-cell multi-omics", "Biophysics", "Bioinformatics", "Systems Biology", "Statistics", "Machine Learning"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
+      "name": "Cajal Neuroscience",
+      "position": "Research Intern, Human Multi-omics",
+      "url": "https://www.cajalneuro.com/",
+      "startDate": "2022-05",
+      "endDate": "2022-08",
+      "summary": "This internship focused on developing a deep learning pipeline for mapping and contextualizing single-cell sequencing data to enable rapid integration of new datasets into reference atlases. The project involved implementing an interpretable deep learning approach with explainable embeddings to create biologically informed latent representations, and deploying standardized bioinformatic workflows to identify cell states, differential expression patterns, and trajectories in Alzheimer's and Parkinson's disease (PD) models.",
+      "highlights": ["Single-cell multi-omics", "Bioinformatics", "Machine Learning"]
+    },
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "name": "University of South Florida",
+      "position": "Bioinformatics Research Student",
+      "url": "",
+      "startDate": "2021-08",
+      "endDate": "2022-05",
+      "summary": "Investigated the role of intrinsic disorder in Ebola and Marburg virus proteins and its potential implications for virulence. This research experience strengthened my skills in bioinformatics, data analysis, and understanding the molecular basis of disease pathogenesis.",
+      "highlights": ["Intrinsically Disordered Proteins"]
     }
   ],
   "awards": [
