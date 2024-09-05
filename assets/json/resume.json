@@ -28,7 +28,7 @@
       "position": "Graduate Research Asssistant",
       "url": "http://faculty.cas.usf.edu/gullah/",
       "startDate": "2019-09",
-      "endDate": "PRES",
+      "endDate": "pres",
       "summary": "Primary research has focused on applying theoretical and computational techniques as well as single-cell multi-omics to understand the molecular and cellular mechanisms of synaptic dysfunction in Alzheimer’s disease (AD). This has involved investigating neuronal signaling pathways and gene programs affected in AD and their impact on synaptic plasticity. These research experiences have resulted in two publications and multiple collaborations.",
       "highlights": ["Single-cell multi-omics", "Biophysics", "Bioinformatics", "Systems Biology", "Statistics", "Machine Learning"]
     },
@@ -38,7 +38,7 @@
       "url": "https://www.cajalneuro.com/",
       "startDate": "2022-05",
       "endDate": "2022-08",
-      "summary": "This internship focused on developing a deep learning pipeline for mapping and contextualizing single-cell sequencing data to enable rapid integration of new datasets into reference atlases. The project involved implementing an interpretable deep learning approach with explainable embeddings to create biologically informed latent representations, and deploying standardized bioinformatic workflows to identify cell states, differential expression patterns, and trajectories in Alzheimer's and Parkinson's disease (PD) models.",
+      "summary": "My work here focused on developing deep learning pipelines for mapping and contextualizing single-cell sequencing data to aid rapid integration of new datasets into reference atlases. The project involved implementing an interpretable deep learning approach with explainable embeddings to create biologically informed latent representations, and deploying standardized bioinformatic workflows to identify cell states, differential expression patterns, and trajectories in Alzheimer's and Parkinson's disease (PD) models.",
       "highlights": ["Single-cell multi-omics", "Bioinformatics", "Machine Learning"]
     },
     {
@@ -47,18 +47,37 @@
       "url": "",
       "startDate": "2021-08",
       "endDate": "2022-05",
-      "summary": "Investigated the role of intrinsic disorder in Ebola and Marburg virus proteins and its potential implications for virulence. This research experience strengthened my skills in bioinformatics, data analysis, and understanding the molecular basis of disease pathogenesis.",
+      "summary": "Investigated the role of intrinsic disorder in Ebola and Marburg virus proteins and its potential implications for virulence.",
       "highlights": ["Intrinsically Disordered Proteins"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+      "title": "Trainee Professional Development Award",
+      "date": "2024-08",
+      "awarder": "Soceity for Neuroscience",
+      "url": "https://www.sfn.org/meetings/meeting-awards/trainee-professional-development-award",
+      "summary": "This award is given to graduate students who demonstrate scientific merit and excellence in research."
+    },
+    { 
+      "title": "Tharp and Duckwall Summer Research Fellowship",
+      "date": "2024-05",
+      "awarder": "College of Arts and Sciences, University of South Florida",
+      "url": "https://www.usf.edu/arts-sciences/departments/geosciences/graduate/funding/fellowships.aspx",
+      "summary": "This is awarded in recognition of accomplishments as a graduate student and in support of continuing research and scholarship activities."
+    },  
+    { 
+      "title": "University of Lagos Endowment Prize",
+      "date": "2012-2017",
+      "awarder": "University of Lagos",
+      "summary": "This award is given to students who maintain a GPA of 4.5 and above (3.6 on a 4.0 scale) in each semester."
+    }, 
+    { 
+      "title": "Dean's Award",
+      "date": "2012-2017",
+      "awarder": "University of Lagos",
+      "summary": "Honors recognizing the best graduating student from the program, the Department of Physics"
+    } 
   ],
   "certificates": [
     {
