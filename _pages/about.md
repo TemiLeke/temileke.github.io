@@ -28,4 +28,6 @@ I recently interned on the Computational Biology team at [Cajal Neuroscience](ht
 
 As a scientist, I'm broadly interested in all aspects of computational biology for complex brain diseases and aging, machine learning applications in single-cell biology and drug discovery, and development of bioinformatics methods and pipelines. 
 
+Outside of research, my favorite activities are playing soccer, running, reading, gaming, and spending time with friends and family.
+
 Want to dive deeper? Check out my previous works [here](https://scholar.google.com/citations?user=CkMw3EkAAAAJ&hl=en).
