@@ -110,7 +110,7 @@
       "summary": "Honors recognizing the best graduating student from the program, the Department of Physics"
     } 
   ],
-  "certificates": [
+  "certificates--": [
     {
       "name": "Deep Learning for Neuroscience",
       "date": "2021-08-21",
@@ -142,7 +142,7 @@
       "summary": "We perform in-silico experiments of intracellular Ca2+ signaling and exocytosis in a detailed biophysical model of hippocampal synapses to investigate the effect of aberrant Ca2+ signaling on neurotransmitter release in Familial ALzheimer's Disease."
     }
   ],
-  "skills": [
+  "skills--": [
     {
       "name": "Programming/Scripting Languages",
       "icon": "fa-solid fa-laptop",
