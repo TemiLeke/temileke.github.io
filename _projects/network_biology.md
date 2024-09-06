@@ -2,7 +2,7 @@
 layout: page
 title: Functional Genomics and Network Biology
 description: Characterizing the ell-type-specific molecular perturbations potentially driving dysregulation of biological processes in Alzheimer's Disease.
-img: assets/img/network.jpg
+img: assets/img/network.png
 importance: 2
 category: research
 related_publications: true
