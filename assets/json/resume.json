@@ -156,63 +156,58 @@
       ]
     },
     {
-      "name": "Programming/Scripting Languages",
+      "name": "Machine Learning Frameworks",
       "icon": "fa-solid fa-laptop",
       "keywords": [
-        "Python",
-        "R",
-        "Bash",
-        "MATLAB",
-        "SQL",
-        "FORTRAN"
+        "Keras",
+        "scikit-learn",
+        "TensorFlow",
+        "scipy",
+        "PyTorch",
+        "statsmodels"
       ]
     },
     {
-      "name": "Programming/Scripting Languages",
+      "name": "Research-relevant Open-source Libraries",
       "icon": "fa-solid fa-laptop",
       "keywords": [
-        "Python",
-        "R",
-        "Bash",
-        "MATLAB",
-        "SQL",
-        "FORTRAN"
+        "Single-cell (RNA, ATAC, & spatial) -omics libraries",
+        "scanpy",
+        "squidpy",
+        "scvi-tools",
+        "hdWGCNA",
+        "GSVA",
+        "SCENIC+",
+        "ArchR",
+        "Biopython"
       ]
     },
     {
-      "name": "Programming/Scripting Languages",
+      "name": "Parallel Computing",
       "icon": "fa-solid fa-laptop",
       "keywords": [
-        "Python",
-        "R",
-        "Bash",
-        "MATLAB",
-        "SQL",
-        "FORTRAN"
+        "CUDA",
+        "mpi4py"
       ]
     },
     {
-      "name": "Programming/Scripting Languages",
+      "name": "High Performance Computing",
       "icon": "fa-solid fa-laptop",
       "keywords": [
-        "Python",
-        "R",
-        "Bash",
-        "MATLAB",
-        "SQL",
-        "FORTRAN"
+        "Amazon Sagemaker",
+        "Terra Community Workbench",
+        "Google Cloud Platform"
       ]
     },
     {
-      "name": "Programming/Scripting Languages",
+      "name": "Code Development",
       "icon": "fa-solid fa-laptop",
       "keywords": [
-        "Python",
-        "R",
-        "Bash",
-        "MATLAB",
-        "SQL",
-        "FORTRAN"
+        "Git",
+        "Github",
+        "Visual Studio",
+        "Docker",
+        "Anaconda"
       ]
     }
   ],  
