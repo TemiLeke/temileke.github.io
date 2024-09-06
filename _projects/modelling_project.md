@@ -16,9 +16,9 @@ related_publications: true
 
 ***
 
-### **1. Analyzing the effects of disrupted Ca<sup>2+</sup> signalling on neurotransmitter release and synaptic plasticity in an in-silico model of Familial Alzheimer's Disease.** 
+### **1. Analyzing the effects of disrupted Ca<sup>2+</sup> signalling on neurotransmitter release and synaptic plasticity in an in-silico model of Familial Alzheimer's Disease. {% cite adeoye_upregulated_2022 %}.** 
 
-In our first key project {% cite adeoye_upregulated_2022 %}., we addressed the poorly undertood topic of disrupted Ca<sup>2+</sup> signaling in FAD. Dysregulations in intracellular Ca<sup>2+</sup> homeostasis are known to play a pivotal role in the early stages of AD, particularly in FAD. However, the precise mechanisms linking these molecular aberrations to functional impairments have remained elusive. To address this gap, we developed a sophisticated computational model and perform in silico experiments of intracellular Ca<sup>2+</sup> signalling and exocytosis in a detailed biophysical model of hippocampal synapses to study how pathological Ca<sup>2+</sup> release from the endoplasmic reticulum (ER) alters action potential-driven synaptic transmission in FAD.
+This was my first key project, where we addressed the poorly undertood topic of disrupted Ca<sup>2+</sup> signaling in FAD. Dysregulations in intracellular Ca<sup>2+</sup> homeostasis are known to play a pivotal role in the early stages of AD, particularly in FAD. However, the precise mechanisms linking these molecular aberrations to functional impairments have remained elusive. To address this gap, we developed a sophisticated computational model and perform in silico experiments of intracellular Ca<sup>2+</sup> signalling and exocytosis in a detailed biophysical model of hippocampal synapses to study how pathological Ca<sup>2+</sup> release from the endoplasmic reticulum (ER) alters action potential-driven synaptic transmission in FAD.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
