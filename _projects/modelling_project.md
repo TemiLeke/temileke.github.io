@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biophysical Modelling
+title: **Biophysical Modelling**
 description: Modelling cellular level signalling perturbations driving synaptic dysfunction in Alzheimer's Disease
 img: assets/img/FAD_release_scheme.png
 importance: 1
@@ -8,11 +8,15 @@ category: research
 related_publications: true
 ---
 
-My thesis is centred around developing systems biology techniques to characterize the cell-type specific mechanisms of synaptic dysfunction in Alzheimer's disease (AD). Much of this work has focused building biophysically detailed _in-silico_ models of hippocampal CA3-CA1 pyramidal boutons to study effects of disrupted Ca<sup>2+</sup> signaling on neurotransmitter release and synaptic plasticity. Here I briefly describe each of two key projects in chronological order, which sums up half the specific aims from my thesis.
+<div style="border-left: 4px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
+
+**In brief:** My thesis is centred around developing systems biology techniques to characterize the cell-type specific mechanisms of synaptic dysfunction in Alzheimer's disease (AD). Much of this work has focused building biophysically detailed _in-silico_ models of hippocampal CA3-CA1 pyramidal boutons to study effects of disrupted Ca<sup>2+</sup> signaling on neurotransmitter release and synaptic plasticity. Here I briefly describe each of two key projects in chronological order, which sums up half the specific aims from my thesis.
+
+</div>
 
 ***
 
-### 1. Analyzing the effects of disrupted Ca<sup>2+</sup> signalling on neurotransmitter release and synaptic plasticity in an in-silico model of Familial Alzheimer's Disease. 
+### **1. Analyzing the effects of disrupted Ca<sup>2+</sup> signalling on neurotransmitter release and synaptic plasticity in an in-silico model of Familial Alzheimer's Disease.** 
 
 In our first key project {% cite adeoye_upregulated_2022 %}., we addressed the poorly undertood topic of disrupted Ca<sup>2+</sup> signaling in FAD. Dysregulations in intracellular Ca<sup>2+</sup> homeostasis are known to play a pivotal role in the early stages of AD, particularly in FAD. However, the precise mechanisms linking these molecular aberrations to functional impairments have remained elusive. To address this gap, we developed a sophisticated computational model and perform in silico experiments of intracellular Ca<sup>2+</sup> signalling and exocytosis in a detailed biophysical model of hippocampal synapses to study how pathological Ca<sup>2+</sup> release from the endoplasmic reticulum (ER) alters action potential-driven synaptic transmission in FAD.
 
@@ -62,7 +66,7 @@ Overally, our work elucidates the mechanisms underlying how disrupted Ca<sup>2+<
 
 ***
 
-### 2. Investigating Amyloid-β (Aβ)-mediated Cation Pore Formation and Its Effects on Presynaptic Function 
+### **2. Investigating Amyloid-β (Aβ)-mediated Cation Pore Formation and Its Effects on Presynaptic Function.**
 
 Our current onging second work, now looks into the mechanisms of synaptic dysfunction in AD driven by Aβ-mediated cation pore formation. This work builds on our previous findings and extends the model to incorporate the complex relationship between Aβ pores, FAD-associated intracellular Ca<sup>2+</sup> dyshomeostasis, and exocytosis.
 
