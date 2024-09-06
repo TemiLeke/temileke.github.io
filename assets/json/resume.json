@@ -142,6 +142,20 @@
       "summary": "We perform in-silico experiments of intracellular Ca2+ signaling and exocytosis in a detailed biophysical model of hippocampal synapses to investigate the effect of aberrant Ca2+ signaling on neurotransmitter release in Familial ALzheimer's Disease."
     }
   ],
+  "skills": [
+    {
+      "name": "Programming/Scripting Languages",
+      "icon": "fa-solid fa-laptop",
+      "keywords": [
+        "Python",
+        "R",
+        "Bash",
+        "MATLAB",
+        "SQL",
+        "FORTRAN"
+      ]
+    }
+  ],  
   "languages--": [
     {
       "language": "German",
