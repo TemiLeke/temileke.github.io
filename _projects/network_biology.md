@@ -83,7 +83,7 @@ Further analysis of recurrent hub genes across brain regions suggested potential
 
 ***
 
-### **2. Mapping glia-neuron signaling mechanisms propagating Alzheimer’s disease-associated pathway dysregulations. **
+### **2. Mapping glia-neuron signaling mechanisms propagating Alzheimer’s disease-associated pathway dysregulations.**
 
 Our current work builds on the findings outline above to take a deeper look into the complex interactions between glial cells and neurons in AD. Here, we aim to map the glia-neuron signaling mechanisms that propagate AD-associated pathway dysregulations, with a particular focus on astrocyte-glutamatergic neuron signaling at tripartite synapses.
 
