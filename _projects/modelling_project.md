@@ -8,13 +8,11 @@ category: research
 related_publications: true
 ---
 
+<div style="border-left: 4px solid #3498db; padding-left: 10px; margin-bottom: 20px; font-size: 1.2em;">
 
----
-**NOTE**
+**In brief:** I develop, solve, and apply models that represent variability due to sequencing as well as biology, and use these models to understand the limitations of typical workflows.
 
-**In brief:** My thesis is centred around developing systems biology techniques to characterize the cell-type specific mechanisms of synaptic dysfunction in Alzheimer's disease (AD). Much of this work has focused building biophysically detailed _in-silico_ models of hippocampal CA3-CA1 pyramidal boutons to study effects of disrupted Ca<sup>2+</sup> signaling on neurotransmitter release and synaptic plasticity. Here I briefly describe each of two key projects in chronological order, which sums up half the specific aims from my thesis.
-
----
+</div>
 
 ***
 
