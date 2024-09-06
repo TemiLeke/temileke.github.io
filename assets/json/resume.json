@@ -124,34 +124,6 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -185,7 +157,7 @@
       ]
     }
   ],
-  "languages": [
+  "languages--": [
     {
       "language": "German",
       "fluency": "Native speaker",
@@ -197,7 +169,7 @@
       "icon": ""
     }
   ],
-  "interests": [
+  "interests--": [
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
@@ -211,26 +183,30 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "DEMON Neurohack Challenge - Trans-ethnic GWAS analysis.",
+      "summary": "Created a modular trans-ethnic GWAS pipeline that can perform essential GWAS analysis with flexibility",
+      "highlights": ["GWAS", "Pipeline Automation", "PRSice", "MR-MEGA"],
+      "startDate": "2022-03-01",
+      "endDate": "2022-03-04",
+      "url": "https://github.com/TemiLeke/DEMON-Neurohack-Challenge-1"
+    },
+    {
+      "name": "Deep Image Decoding From Neural Activity",
+      "summary": "Developed a deep-image reconstruction model that utilizes recorded neural activity from the visual cortex.",
+      "highlights": ["Visual Decoding", "Image Reconstruction", "Generative Modelling"],
+      "startDate": "2021-08-07",
+      "endDate": "2021-08-21",
+      "url": "https://github.com/TemiLeke/Deep-Image-Decoding-From-Neural-Activity"
+    },
+    {
+      "name": "Trial History Effects on trial-to-trial variability of neural and behavioural data",
+      "summary": "Developed a prediction model to investigate the effects of trial history on the trial-to-trial variability of neural and behavioral data",
+      "highlights": ["Neural Variability", "Trial History", "Predictive Modeling"],
+      "startDate": "2020-07-01",
+      "endDate": "2020-07-14",
+      "url": "https://github.com/TemiLeke/NMA-Project"
     }
   ]
 }
