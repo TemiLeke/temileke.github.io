@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biophysical Modelling
+title: Biophysical Modelling and Systems Biology
 description: Modelling cellular level signalling perturbations driving synaptic dysfunction in Alzheimer's Disease
 img: assets/img/FAD_release_scheme.png
 importance: 1
