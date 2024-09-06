@@ -115,14 +115,14 @@
       "name": "Deep Learning for Neuroscience",
       "date": "2021-08-21",
       "issuer": "Neuromatch Academy",
-      "url": "https://neuromatch.io/deep-learning-course/",
+      "url": "https://neuromatch.io/deep-learning-course",
       "icon": "fa-solid fa-laptop"
     },
     {
       "name": "Computational Neuroscience",
       "date": "2020-07",
       "issuer": "Neuromatch Academy",
-      "url": "https://neuromatch.io/deep-learning-course/",
+      "url": "https://neuromatch.io/deep-learning-course",
       "icon": "fa-solid fa-laptop"
     }
   ],
@@ -141,38 +141,6 @@
       "url": "https://www.mdpi.com/2073-4409/11/14/2167",
       "summary": "We perform in-silico experiments of intracellular Ca2+ signaling and exocytosis in a detailed biophysical model of hippocampal synapses to investigate the effect of aberrant Ca2+ signaling on neurotransmitter release in Familial ALzheimer's Disease."
     }
-  ],
-  "skills": [
-    {
-      "name": "Programming/Scripting Languages",
-      "icon": "fa-solid fa-laptop",
-      "keywords": ["Python", "R", "Bash", "MATLAB", "SQL", "FORTRAN"]
-    },
-    {
-      "name": "Machine Learning Frameworks",
-      "icon": "fa-solid fa-laptop",
-      "keywords": ["Keras", "scikit-learn", "TensorFlow", "scipy", "PyTorch", "statsmodels"]
-    },
-    {
-      "name": "Parallel Computing",
-      "icon": "fa-solid fa-laptop",
-      "keywords": ["CUDA", "mpi4py"]
-    },
-    {
-      "name": "High Performance Computing",
-      "icon": "fa-solid fa-laptop",
-      "keywords": ["Amazon Sagemaker", "Terra Community Workbench", "Google Cloud Platform"]
-    },
-    {
-      "name": "Code Development",
-      "icon": "fa-solid fa-laptop",
-      "keywords": ["Git", "Github", "Visual Studio", "Docker", "Anaconda"]
-    },     
-    {
-      "name": "Research-relevant Open-source Libraries",
-      "icon": "fa-solid fa-laptop",
-      "keywords": ["scanpy", "squidpy", "scvi-tools", "hdWGCNA", "GSVA", "SCENIC+", "ArchR", "Single-cell (RNA, ATAC, & spatial)-omics libraries", "Biopython"]
-    }, 
   ],
   "languages--": [
     {
