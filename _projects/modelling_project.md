@@ -8,11 +8,13 @@ category: research
 related_publications: true
 ---
 
-<div style="border-left: 4px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
+
+---
+**NOTE**
 
 **In brief:** My thesis is centred around developing systems biology techniques to characterize the cell-type specific mechanisms of synaptic dysfunction in Alzheimer's disease (AD). Much of this work has focused building biophysically detailed _in-silico_ models of hippocampal CA3-CA1 pyramidal boutons to study effects of disrupted Ca<sup>2+</sup> signaling on neurotransmitter release and synaptic plasticity. Here I briefly describe each of two key projects in chronological order, which sums up half the specific aims from my thesis.
 
-</div>
+---
 
 ***
 
@@ -34,7 +36,6 @@ In our first key project {% cite adeoye_upregulated_2022 %}., we addressed the p
 
 We began by developing a novel four-state kinetic model of IP<sub>3</sub>R gating, fit to recent data from cortical neurons. This model captured the mechanistic basis of IP<sub>3</sub>R gain-of-function observed in FAD and provided a crucial foundation for our subsequent work. Building on this, we created a biophysically realistic multicompartment model of intracellular Ca<sup>2+</sup> dynamics in a hippocampal CA3 pyramidal axonal bouton. 
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/FAD_release_scheme.png" title="Kinetic scheme of vesicle release" class="img-fluid rounded z-depth-1" %}
