@@ -10,7 +10,7 @@ related_publications: true
 
 <div style="border-left: 4px solid #3498db; padding-left: 10px; margin-bottom: 20px; font-size: 1.2em;">
 
-<strong>In brief:</strong> These works represent the other half of my thesis which focuses on comprehensively characterizing the cell-type-specific molecular perturbations potentially driving the dysregulation of biological processes in Alzheimer’s disease (AD). The bulk of the work in this phase is centred around conducting an integrated analysis of snRNA-seq and scATAC-seq data from AD brains to reveal how molecular network alterations translate to functional impairments of cellular processes driving AD pathogenesis.
+<strong>In brief:</strong> These works represent the other half of my thesis which focuses on comprehensively characterizing the cell-type-specific molecular perturbations potentially driving the dysregulation of biological processes in Alzheimer’s disease (AD). The bulk of the work in this phase is centred around conducting an integrated analysis of snRNA-seq and scATAC-seq data from AD brains to reveal how molecular network alterations translate to functional impairments of cellular processes driving AD pathogenesis. Below.I provide a brief summary of each of the projects.
 </div>
 
 ***
