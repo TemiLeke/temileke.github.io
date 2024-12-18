@@ -55,6 +55,15 @@
   ],
   "work": [
     {
+      "name": "Regeneron Genetics Centere",
+      "position": "Incoming Intern, Computational Biology, Neuroscience and Ophthalmology Therapeutic Area Genetics",
+      "url": "https://www.regeneron.com/science/genetics-center",
+      "startDate": "2025-05",
+      "endDate": "2025-08",
+      "summary": "Primary work here will focus on integrating single-nucleus RNA-seq, single cell eQTL, and ATAC-seq data to annotate top hits from genetic perturbation studies with cell types or cell states, and pinpoint specific signatures associated with such signals",
+      "highlights": ["Single-cell multi-omics", "GWAS", "Functional Genomics", "Variant Effect Prediction", "Bioinformatics", "Systems Biology", "Statistics", "Machine Learning"]
+    },
+    {
       "name": "Computational Biophysics Group, University of South Florida",
       "position": "Graduate Research Asssistant",
       "url": "http://faculty.cas.usf.edu/gullah/",
