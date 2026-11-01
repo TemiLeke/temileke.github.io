@@ -1,6 +1,4 @@
 ---
-# TODO: set the real date and remove `published: false` to show this item.
-date: 2025-09-01
-published: false
+date: 2025-12-01
 ---
-Joined the [Regeneron Genetics Center](https://www.regeneron.com/science/genetics-center) full time in Translational Genetics, where I work on turning human genetic discoveries into cellular mechanisms and therapeutic hypotheses.
+Started as Associate Manager in Genomics & Health Data Mining at the [Regeneron Genetics Center](https://www.regeneron.com/science/genetics-center), where I'm building workflows and models that prioritize therapeutic targets from human genetics and multi-omic data across therapeutic areas.

@@ -1,12 +1,15 @@
 # Newest first. `points` are optional bullet lines.
-- role: Computational Biologist, Translational Genetics # TODO: exact title
+- role: Associate Manager, Genomics & Health Data Mining
   org: Regeneron Genetics Center
   url: https://www.regeneron.com/science/genetics-center
-  period: Present # TODO: e.g. "2025 – Present"
+  period: Dec 2025 – Present
   current: true
   summary: >-
-    Translating human genetic discoveries from large-scale sequencing cohorts
-    into cellular mechanisms and therapeutic hypotheses.
+    Building analysis workflows and machine-learning models that prioritize
+    translational targets from large-scale human genetics, proteomics and
+    phenome-wide data, and assembling portfolio-level views of multi-omic
+    evidence across therapeutic areas with partner RGC and therapeutic-area
+    teams.
 
 - role: PhD Intern, Neuroscience & Ophthalmology TA Genetics
   org: Regeneron Genetics Center

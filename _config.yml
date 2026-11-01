@@ -4,25 +4,24 @@
 # ------------------------------------------------------------------
 title: Temitope Adeoye
 description: >-
-  Computational biologist in Translational Genetics at the Regeneron Genetics
-  Center, working at the intersection of human genetics, single-cell
-  multi-omics and mechanistic modeling of neurological disease.
+  Associate Manager, Genomics & Health Data Mining at the Regeneron Genetics
+  Center. Prioritizing therapeutic targets from human genetics and multi-omic
+  data, with a background in single-cell genomics and biophysical modeling.
 url: https://temileke.github.io
 baseurl: ""
 lang: en_US
-tagline: Computational Biologist, Regeneron Genetics Center
+tagline: Associate Manager, Genomics & Health Data Mining, Regeneron Genetics Center
 timezone: America/New_York
 
 profile:
   name: Temitope Adeoye
   short: TA
-  # TODO: replace with your exact job title, e.g. "Associate Scientist"
-  role: Computational Biologist, Translational Genetics
+  role: Associate Manager, Genomics & Health Data Mining
   org: Regeneron Genetics Center
   org_url: https://www.regeneron.com/science/genetics-center
   tagline: >-
-    I connect human genetic variation to the cellular mechanisms and
-    therapeutic responses behind neurological disease.
+    I turn human genetic and multi-omic evidence into prioritized
+    therapeutic targets.
   email: adeoyetemileke@gmail.com
   portrait: /assets/img/portrait.webp
   cv: /assets/pdf/temitope_cv.pdf
