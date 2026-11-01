@@ -1,0 +1,30 @@
+---
+title: Research
+permalink: /research/
+eyebrow: Research
+lede: From germline variants to synapses. My work spans human genetics, single-cell multi-omics and biophysical modeling, applied to neurological disease.
+---
+<div class="research-list">
+  <article class="research-item current">
+    <div class="research-media research-media-gwas" aria-hidden="true"></div>
+    <div class="research-body">
+      <p class="meta">Regeneron Genetics Center · Now</p>
+      <h2>Translational genetics</h2>
+      <p>At RGC I work on bridging population-scale genetics and biology: prioritizing causal genes and cell types behind genetic associations, and asking how germline variation shapes cellular responses to drugs, using resources such as large-scale single-cell perturbation atlases.</p>
+    </div>
+  </article>
+  {%- assign items = site.research | sort: "order" %}
+  {%- for r in items %}
+  <article class="research-item">
+    <a class="research-media" href="{{ r.url | relative_url }}" tabindex="-1" aria-hidden="true">
+      <img src="{{ r.image | relative_url }}" alt="" loading="lazy" decoding="async">
+    </a>
+    <div class="research-body">
+      <p class="meta">{{ r.period }}</p>
+      <h2><a href="{{ r.url | relative_url }}">{{ r.title }}</a></h2>
+      <p>{{ r.description }}</p>
+      <a class="more" href="{{ r.url | relative_url }}">Read more →</a>
+    </div>
+  </article>
+  {%- endfor %}
+</div>

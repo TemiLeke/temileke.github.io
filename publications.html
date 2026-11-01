@@ -1,0 +1,29 @@
+---
+title: Publications
+permalink: /publications/
+eyebrow: Publications
+lede: Peer-reviewed papers, talks and posters. For a complete and current list, see Google Scholar.
+---
+<div class="section-head">
+  <h2 class="section-label">Papers</h2>
+  <a class="more" href="https://scholar.google.com/citations?user=CkMw3EkAAAAJ">Google Scholar →</a>
+</div>
+<div class="papers">
+  {%- for paper in site.data.publications.papers %}
+  {% include paper.html paper=paper %}
+  {%- endfor %}
+</div>
+
+<h2 class="section-label section-gap">Talks &amp; posters</h2>
+<ol class="talks">
+  {%- for t in site.data.publications.talks %}
+  <li>
+    <span class="period">{{ t.year }}</span>
+    <div>
+      <p class="meta">{{ t.kind }}</p>
+      <h3>{{ t.title }}</h3>
+      <p class="org">{{ t.event }}</p>
+    </div>
+  </li>
+  {%- endfor %}
+</ol>

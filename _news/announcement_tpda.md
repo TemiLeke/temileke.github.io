@@ -1,8 +1,4 @@
 ---
-layout: post
-date: 2024-08-26 15:59:00-0400
-inline: true
-related_posts: false
+date: 2024-08-26
 ---
-
-I'm honored to be awarded the Trainee Professional Development Award ([TPDA](https://www.sfn.org/meetings/meeting-awards/trainee-professional-development-award)) by the Society for Neuroscience (SfN) for [SfN24](https://www.sfn.org/meetings/neuroscience-2024). This award is given to graduate students demonstrating scientific merit and excellence in research and will support my attendance at the annual SfN meeting in Chicago this year. I'll be presenting a poster on our lab's [recent work](https://www.aginganddisease.org/EN/10.14336/AD.2024.0429) at the [Early Career Poster Session on Saturday, October 5 from 6:30 PM – 8:30 PM](https://www.sfn.org/meetings/neuroscience-2024/sessions-and-events/networking-outreach-and-advocacy?utm_campaign=2024%20Awards&utm_medium=email&_hsenc=p2ANqtz-_wjDW293MBtOGRPuRp3pJrmZDv5VkJK3lZHe1UhwEWvT2CWBqpWcoFPNkyleIKlkpruCGSbZwiJpSm3IMCb3iVhehwuQ&_hsmi=318207214&utm_content=318207214&utm_source=hs_email#Saturday,-October-05) and at the [Alzheimer’s Disease: Genetics poster session PSTR446 (board Number: C59) on Wednesday, October 9 fro 1:00 PM - 5:00 PM](https://www.abstractsonline.com/pp8/?utm_campaign=Neuroscience%20Nexus&utm_medium=email&_hsenc=p2ANqtz--OsyxwyfVDw9fYXEOXs9JtEoLVlSdhIMeFiAPtdsoGOOHRHle4fLNdfvmKT1EpMfjJ-o_PVOTMqD6HUPfu3QEbxrCoCA&_hsmi=323446915&utm_content=323446915&utm_source=hs_email#!/20433/session/3849). If you're attending SfN24, I'd be delighted to connect and discuss our work :wave: :smile:. This wouldn't have been possible without the invaluable guidance and support of my PI, Prof. Ghanim Ullah, at the University of South Florida.
+Honored to receive the Society for Neuroscience [Trainee Professional Development Award](https://www.sfn.org/meetings/meeting-awards/trainee-professional-development-award) for SfN 2024, recognizing scientific merit and excellence in graduate research. Thanks to my PI, Prof. Ghanim Ullah, for his guidance and support.

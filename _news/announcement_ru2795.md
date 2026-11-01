@@ -1,9 +1,4 @@
 ---
-layout: post
-date: 2024-09-12 07:59:00-0400
-inline: true
-related_posts: false
+date: 2024-09-12
 ---
-
-I gave a talk at the annual meeting of [Synapses Under Stress (RU 2795)](https://www.for2795.hhu.de/en/), hosted by [Prof. Jürgen Klingauf](https://www.uni-muenster.de/Cells-in-Motion/de/people/all/klingauf-j.php) at the University of Münster, Germany. My talk was titled **_<span style="color:orange">Alzheimer’s Disease-associated Intracellular Calcium Dyshomeostasis Leads to Impaired Presynaptic Function</span>_**, and I shared key results from the initial phases of my thesis. This work focuses on the cellular level disruptions associated with Ca<sup>2+</sup> signaling in Familial Alzheimer’s Disease (FAD), including the effects of disrupted Ca<sup>2+</sup> signaling on neurotransmitter release and synaptic plasticity in an in-silico model of FAD, and how Aβ-mediated cation pore formation modulates presynaptic Ca<sup>2+</sup> dynamics and the downstream effects on exocytosis in-silico.
-
+Gave a talk at the annual meeting of [Synapses Under Stress (RU 2795)](https://www.for2795.hhu.de/en/), hosted by Prof. Jürgen Klingauf at the University of Münster, Germany: *Alzheimer's Disease-associated Intracellular Calcium Dyshomeostasis Leads to Impaired Presynaptic Function*. I shared how disrupted Ca²⁺ signaling in familial AD reshapes neurotransmitter release and plasticity in silico, and how Aβ-mediated cation pores modulate presynaptic Ca²⁺ dynamics and exocytosis.

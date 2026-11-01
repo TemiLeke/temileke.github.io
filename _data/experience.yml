@@ -1,0 +1,44 @@
+# Newest first. `points` are optional bullet lines.
+- role: Computational Biologist, Translational Genetics # TODO: exact title
+  org: Regeneron Genetics Center
+  url: https://www.regeneron.com/science/genetics-center
+  period: Present # TODO: e.g. "2025 – Present"
+  current: true
+  summary: >-
+    Translating human genetic discoveries from large-scale sequencing cohorts
+    into cellular mechanisms and therapeutic hypotheses.
+
+- role: PhD Intern, Neuroscience & Ophthalmology TA Genetics
+  org: Regeneron Genetics Center
+  url: https://www.regeneron.com/science/genetics-center
+  period: Summer 2025
+  summary: >-
+    Worked on linking GWAS loci to drug-response mechanisms in the Tahoe-100M single-cell
+    perturbation atlas, asking how germline variants shape cellular responses
+    to pharmacological intervention.
+
+- role: Graduate Researcher, Computational Biophysics & Neurobiology
+  org: University of South Florida · Ullah Lab
+  url: https://faculty.cas.usf.edu/gullah/
+  period: 2020 – 2025
+  summary: >-
+    Built biophysical models of presynaptic Ca²⁺ signaling and single-cell
+    multi-omics pipelines to map cell-type-specific mechanisms of synaptic
+    dysfunction in Alzheimer's disease. Led the lab's genomics subgroup and
+    mentored three trainees.
+
+- role: Research Intern, Human Multi-omics
+  org: Cajal Neuroscience
+  url: https://www.cajalneuro.com/
+  period: Summer 2022
+  summary: >-
+    Developed interpretable deep-learning pipelines (scArches / expiMAP) for
+    reference mapping of single-cell data, informing target prioritization for
+    Alzheimer's and Parkinson's disease programs.
+
+- role: Bioinformatics Research Student
+  org: University of South Florida · Uversky Lab
+  period: 2021 – 2022
+  summary: >-
+    Studied intrinsic protein disorder in Ebola and Marburg virus proteins and
+    its implications for virulence.

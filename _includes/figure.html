@@ -1,0 +1,13 @@
+{%- comment -%}
+  Usage: {% include figure.html src="/assets/img/a.webp" alt="..." caption="..." %}
+  Side by side: add src2/alt2 (caption describes both).
+{%- endcomment -%}
+<figure class="fig{% if include.src2 %} fig-pair{% endif %}">
+  <div class="fig-media">
+    <a href="{{ include.src | relative_url }}"><img src="{{ include.src | relative_url }}" alt="{{ include.alt }}" loading="lazy" decoding="async"></a>
+    {%- if include.src2 %}
+    <a href="{{ include.src2 | relative_url }}"><img src="{{ include.src2 | relative_url }}" alt="{{ include.alt2 }}" loading="lazy" decoding="async"></a>
+    {%- endif %}
+  </div>
+  {%- if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}
+</figure>
