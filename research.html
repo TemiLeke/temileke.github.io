@@ -1,0 +1,30 @@
+---
+title: Research
+permalink: /research/
+eyebrow: Research
+lede: From population genetics to synapses. My work spans genetics-driven target discovery, single-cell multi-omics and biophysical modeling.
+---
+<div class="research-list">
+  <article class="research-item current">
+    <div class="research-media research-media-gwas" aria-hidden="true"></div>
+    <div class="research-body">
+      <p class="meta">Regeneron Genetics Center · Dec 2025 – now</p>
+      <h2>Genomics &amp; health data mining</h2>
+      <p>At RGC I design reproducible analysis workflows and machine-learning models that prioritize therapeutic targets from human genetics and omics data, including large-scale genomics, proteomics and phenome-wide analyses, and build portfolio-level views of the multi-omic evidence behind targets across therapeutic areas.</p>
+    </div>
+  </article>
+  {%- assign items = site.research | sort: "order" %}
+  {%- for r in items %}
+  <article class="research-item">
+    <a class="research-media" href="{{ r.url | relative_url }}" tabindex="-1" aria-hidden="true">
+      <img src="{{ r.image | relative_url }}" alt="" loading="lazy" decoding="async">
+    </a>
+    <div class="research-body">
+      <p class="meta">{{ r.period }}</p>
+      <h2><a href="{{ r.url | relative_url }}">{{ r.title }}</a></h2>
+      <p>{{ r.description }}</p>
+      <a class="more" href="{{ r.url | relative_url }}">Read more →</a>
+    </div>
+  </article>
+  {%- endfor %}
+</div>

@@ -1,0 +1,12 @@
+<ol class="timeline">
+  {%- for e in site.data.experience %}
+  <li{% if e.current %} class="current"{% endif %}>
+    <span class="period">{{ e.period }}</span>
+    <div>
+      <h3>{{ e.role }}</h3>
+      <p class="org">{% if e.url %}<a href="{{ e.url }}">{{ e.org }}</a>{% else %}{{ e.org }}{% endif %}</p>
+      {%- if e.summary %}<p>{{ e.summary }}</p>{% endif %}
+    </div>
+  </li>
+  {%- endfor %}
+</ol>

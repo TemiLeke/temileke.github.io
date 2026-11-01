@@ -1,0 +1,39 @@
+---
+title: Curriculum Vitae
+permalink: /cv/
+eyebrow: CV
+lede: A summary of my experience and training. The full CV is available as a PDF.
+---
+<p><a class="btn btn-primary" href="{{ site.profile.cv | relative_url }}">Download CV (PDF)</a></p>
+
+<h2 class="section-label section-gap">Experience</h2>
+{% include timeline.html %}
+
+<h2 class="section-label section-gap">Education</h2>
+<ol class="timeline">
+  {%- for e in site.data.education %}
+  <li>
+    <span class="period">{{ e.period }}</span>
+    <div>
+      <h3>{{ e.degree }}</h3>
+      <p class="org">{{ e.org }}</p>
+      {%- if e.focus %}<p>{{ e.focus }}</p>{% endif %}
+    </div>
+  </li>
+  {%- endfor %}
+</ol>
+
+<h2 class="section-label section-gap">Honors</h2>
+<ul class="plain-list">
+  <li><strong>Trainee Professional Development Award</strong>, Society for Neuroscience, 2024</li>
+  <li><strong>Best Graduating Student</strong>, BSc Applied Physics, University of Lagos, 2017</li>
+</ul>
+
+<h2 class="section-label section-gap">Toolkit</h2>
+<dl class="skills">
+  <div><dt>Languages</dt><dd>Python, R, Bash, SQL, MATLAB, Fortran</dd></div>
+  <div><dt>Genomics</dt><dd>scanpy, scvi-tools, scArches, scVelo, hdWGCNA, SCENIC+, ArchR, squidpy, GSVA</dd></div>
+  <div><dt>Machine learning</dt><dd>PyTorch, TensorFlow/Keras, scikit-learn, statsmodels</dd></div>
+  <div><dt>Modeling</dt><dd>ODE/stochastic biophysical models, network biology, statistical modeling</dd></div>
+  <div><dt>Compute</dt><dd>HPC, CUDA, mpi4py, AWS SageMaker, GCP, Terra, Docker, Git</dd></div>
+</dl>

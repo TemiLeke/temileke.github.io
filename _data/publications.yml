@@ -1,0 +1,40 @@
+# Newest first. Set `selected: true` to feature a paper on the home page.
+papers:
+  - title: Systematic Analysis of Biological Processes Reveals Gene Co-expression Modules Driving Pathway Dysregulation in Alzheimer's Disease
+    authors: <b>Adeoye T</b>, Shah SI, Ullah G
+    venue: Aging and Disease
+    year: 2024
+    doi: 10.14336/AD.2024.0429
+    url: https://www.aginganddisease.org/EN/10.14336/AD.2024.0429
+    pdf: /assets/pdf/adeoye_systematic_2024.pdf
+    image: /assets/img/pub_systematic_2024.webp
+    selected: true
+    summary: >-
+      Integrating pathway activity with single-nucleus co-expression networks
+      across three brain regions shows that differential expression alone
+      misses much of Alzheimer's biology, and implicates astrocytes and
+      microglia in calcium, glutamate, lipid and TOR signaling.
+
+  - title: Upregulated Ca²⁺ Release from the Endoplasmic Reticulum Leads to Impaired Presynaptic Function in Familial Alzheimer's Disease
+    authors: <b>Adeoye T</b>, Shah SI, Demuro A, Rabson DA, Ullah G
+    venue: Cells
+    year: 2022
+    doi: 10.3390/cells11142167
+    url: https://www.mdpi.com/2073-4409/11/14/2167
+    pdf: /assets/pdf/adeoye_upregulated_2022.pdf
+    image: /assets/img/pub_upregulated_2022.webp
+    selected: true
+    summary: >-
+      A detailed biophysical model of hippocampal synapses shows that
+      IP₃R-driven ER Ca²⁺ release raises release probability, enhances
+      short-term plasticity and desynchronizes neurotransmission in FAD.
+
+talks:
+  - title: Alzheimer's Disease-associated Intracellular Calcium Dyshomeostasis Leads to Impaired Presynaptic Function
+    kind: Invited talk
+    event: Synapses Under Stress (RU 2795) Annual Meeting, University of Münster
+    year: 2024
+  - title: Systematic analysis of pathway dysregulation and gene co-expression modules in Alzheimer's disease
+    kind: Poster
+    event: Society for Neuroscience (SfN), Chicago · AD Genetics session & Early Career session
+    year: 2024

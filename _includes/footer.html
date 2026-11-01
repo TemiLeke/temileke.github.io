@@ -1,0 +1,13 @@
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <div>
+      <p class="footer-cta">Interested in human genetics, single-cell biology or collaborating?</p>
+      <a class="footer-email" href="mailto:{{ site.profile.email }}">{{ site.profile.email }}</a>
+    </div>
+    {% include social.html %}
+  </div>
+  <div class="wrap footer-meta">
+    <span>© {{ site.time | date: "%Y" }} {{ site.profile.name }}</span>
+    <span>Views are my own.</span>
+  </div>
+</footer>

@@ -1,0 +1,19 @@
+{%- assign p = include.paper -%}
+<article class="paper">
+  {%- if p.image %}
+  <a class="paper-thumb" href="{{ p.url }}" tabindex="-1" aria-hidden="true">
+    <img src="{{ p.image | relative_url }}" alt="" loading="lazy" decoding="async" width="800" height="500">
+  </a>
+  {%- endif %}
+  <div class="paper-body">
+    <p class="meta"><span class="venue">{{ p.venue }}</span> · {{ p.year }}</p>
+    <h3><a href="{{ p.url }}">{{ p.title }}</a></h3>
+    <p class="authors">{{ p.authors }}</p>
+    {%- if p.summary %}<p class="summary">{{ p.summary }}</p>{% endif %}
+    <p class="links">
+      {%- if p.pdf %}<a class="chip" href="{{ p.pdf | relative_url }}">PDF</a>{% endif %}
+      {%- if p.doi %}<a class="chip" href="https://doi.org/{{ p.doi }}">DOI</a>{% endif %}
+      {%- if p.url %}<a class="chip" href="{{ p.url }}">Journal</a>{% endif %}
+    </p>
+  </div>
+</article>
