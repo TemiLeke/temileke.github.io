@@ -5,8 +5,8 @@
 title: Temitope Adeoye
 description: >-
   Associate Manager, Genomics & Health Data Mining at the Regeneron Genetics
-  Center. Prioritizing therapeutic targets from human genetics and multi-omic
-  data, with a background in single-cell genomics and biophysical modeling.
+  Center. Statistical genetics, multi-omics and machine learning for drug
+  target discovery.
 url: https://temileke.github.io
 baseurl: ""
 lang: en_US
@@ -20,8 +20,10 @@ profile:
   org: Regeneron Genetics Center
   org_url: https://www.regeneron.com/science/genetics-center
   tagline: >-
-    I turn human genetic and multi-omic evidence into prioritized
-    therapeutic targets.
+    People who carry a natural genetic change that protects them from
+    disease are some of the best guides we have to new medicines. I use
+    statistical genetics and multi-omics to find them, and to follow that
+    evidence from variant to gene to target.
   email: adeoyetemileke@gmail.com
   portrait: /assets/img/portrait.webp
   cv: /assets/pdf/temitope_cv.pdf
